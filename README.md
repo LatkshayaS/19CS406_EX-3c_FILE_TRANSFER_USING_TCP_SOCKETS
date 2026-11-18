@@ -1,4 +1,4 @@
-# 19CS4063c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
+# 19CS406_EX3_c.CREATION FOR FILE TRANSFER USING TCP SOCKETS
 ## AIM
 To write a python program for creating File Transfer using TCP Sockets Links
 ## ALGORITHM:
